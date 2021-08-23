@@ -14,12 +14,6 @@ class ProfileView: UIView {
     @IBOutlet weak var cityView: UILabel!
     @IBOutlet weak var birthDateView: UILabel!
     @IBOutlet weak var descriptionView: UITextView!
-    /*
-    // Only override draw() if you perform custom drawing.
-    // An empty implementation adversely affects performance during animation.
-    override func draw(_ rect: CGRect) {
-        // Drawing code
-    }
-    */
+  
 
 }
